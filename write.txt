@@ -1,0 +1,10 @@
+hackathon
+javacode
+this is a read file
+platform independent
+language
+object oriented
+java
+how are you
+hello
+hi
